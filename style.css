@@ -1,0 +1,13 @@
+body{
+    min-height: 100vh;
+    background: linear-gradient(black,rgba(0, 0, 0, 0.665)), url(img/code.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 10%;
+}
